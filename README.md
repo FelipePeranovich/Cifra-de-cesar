@@ -24,17 +24,19 @@
     <h4>
         Exemplo com deslocamento de 3:
     </h4>
-    <h5>
-        <p>Normal: ABCDEFGHIJKLMNOPQRSTUVWXYZ 
-        <p>Cifrado: DEFGHIJKLMNOPQRSTUVWXYZABC
-    </h5>
-    <br>
-    <br>
-    <br>
+    
+|Normal : | Cifrado: |
+| :---:  | :---:  |
+|  ABCDEFGHIJKLMNOPQRSTUVWXYZ | DEFGHIJKLMNOPQRSTUVWXYZABC  |
+
+<br>
+<br>
+<br>
+
 </div>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h7 style="display: inline-block">Projeto desenvolvido por Felipe Gomes Peranovich </h7></summary>
+    <summary><h8 style="display: inline-block">© Projeto desenvolvido por Felipe Gomes Peranovich </h8></summary>
 </div>
 <p>
 
